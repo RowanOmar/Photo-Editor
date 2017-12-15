@@ -4,3 +4,8 @@ It is a simple photo editor developed using opencv and c#. It allows user to upl
 1. Image enhancement histogram processing: Gray level transformation and Histogram processing.
 2. Image enhancement Spatial filtering: smoothing spatial filter, median filter and weighted smoothing filters.
 3. Image restoration noise removal: Adaptive median filter, Mean filters(Arithmetic, Geometric, Harmonic, Contraharmonic), order statistics filters(median, max, min, midpoint, alpha-trimmed).
+
+![alt text](screenshots/Capture1.jpg "")
+![alt text](screenshots/Capture2.jpg "")
+![alt text](screenshots/Capture3.jpg "")
+
