@@ -1,0 +1,206 @@
+﻿  MyForm.cpp
+c:\users\rawan\desktop\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2464): warning C4002: too many actual parameters for macro 'max'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2526): warning C4002: too many actual parameters for macro 'min'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3571): warning C4002: too many actual parameters for macro 'max'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3634): warning C4002: too many actual parameters for macro 'min'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(762): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(763): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(820): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(822): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(889): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(890): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(945): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(952): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(953): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(954): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(961): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(962): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(946): warning C4101: 'gval': unreferenced local variable
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1033): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1034): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1035): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1041): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1042): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1043): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1049): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1050): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1015): warning C4101: 'max': unreferenced local variable
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1015): warning C4101: 'min': unreferenced local variable
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1124): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1125): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1126): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1132): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1213): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1282): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1282): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1304): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1305): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1306): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1312): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1313): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1390): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1391): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1392): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1398): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1399): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1468): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1469): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1470): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1475): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1476): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1477): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1484): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1485): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1486): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1494): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1495): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1552): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1553): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1612): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1613): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1670): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1671): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1728): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1729): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1786): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1787): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1844): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1845): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1954): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1955): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(1999): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2002): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2005): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2034): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2035): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2086): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2094): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2095): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2147): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2155): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2223): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2285): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2286): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2340): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2347): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2348): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2409): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2410): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2471): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2472): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2533): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2534): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2588): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2595): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2596): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2646): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2653): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2661): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2662): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2708): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2709): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2804): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2805): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2806): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2812): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2813): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2814): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2820): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2821): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2889): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2890): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2891): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2897): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2898): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2899): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2905): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2906): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2988): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2989): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3044): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3044): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3066): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3067): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3068): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3074): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3075): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3151): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3152): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3153): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3159): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3231): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3238): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3240): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3247): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3248): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3249): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3257): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3258): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2871): warning C4101: 'max': unreferenced local variable
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(2871): warning C4101: 'min': unreferenced local variable
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3324): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3325): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3388): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3389): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3444): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3451): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3508): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3515): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3516): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3578): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3579): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3641): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3642): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3705): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3706): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3766): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(3767): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4133): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4186): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4187): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4297): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4298): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4329): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4330): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4400): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rawan\documents\visual studio 2015\projects\project1\project1\MyForm.h(4401): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\cvstd.hpp(596): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\mat.inl.hpp(413): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\mat.inl.hpp(703): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\mat.inl.hpp(1929): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\mat.inl.hpp(3530): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\rawan\desktop\opencv\build\include\opencv2\core\cvstd.hpp(673): warning C4793: 'cv::String::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project1.vcxproj -> C:\Users\Rawan\documents\visual studio 2015\Projects\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Rawan\documents\visual studio 2015\Projects\Project1\x64\Debug\Project1.pdb (Partial PDB)
