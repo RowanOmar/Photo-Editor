@@ -1,5 +1,5 @@
 # Photo-Editor
-It is a simple photo editor developed using opencv and c#. It allows user to upload the desired image then apply some filters, change resolution and resize images.
+It is a simple photo editor developed using opencv and C#. It allows user to upload the desired image then apply some filters, change resolution, rotate and resize images then save it.
 # Image processing Techniques
 1. Image enhancement histogram processing: Gray level transformation and Histogram processing.
 2. Image enhancement Spatial filtering: smoothing spatial filter, median filter and weighted smoothing filters.
